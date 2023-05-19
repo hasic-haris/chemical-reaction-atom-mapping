@@ -6,6 +6,13 @@ transformation. This process is widely known as atom mapping, and it has proven 
 this into account, the goal of this project is to systematically curate, categorize and facilitate the access to
 existing open-source chemical reaction atom mapping libraries in one place.
 
+**Author:** Haris Hasić, M.Eng.<br>
+**Affiliation:**
+Dr.Sci. Student @
+[Ishida Laboratory, Department of Computer Science, Tokyo Institute of Technology](http://www.cb.cs.titech.ac.jp) &&
+Research Engineer @ [Elix, Inc.](https://www.elix-inc.com)<br>
+**Current Version:** 2023.1.0
+
 
 ## Setup
 To use the ***chemical_reaction_atom_mapping*** package, please ensure that the
@@ -54,7 +61,7 @@ chemical reaction atom mapping libraries, please refer to the original publicati
 ## Contact
 If you are interested in contributing to this project by reporting bugs, submitting feedback or anything else that
 might be beneficial, please feel free to do so via GitHub issues or [e-mail](mailto:hasic@cb.cs.titech.ac.jp). Also,
-check out the latest [Elix, Inc.](https://www.elix-inc.com/) research. 
+check out the latest [Elix, Inc.](https://www.elix-inc.com/research) research. 
 
 
 ## References
