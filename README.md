@@ -1,4 +1,9 @@
-# Chemical Reaction Atom Mapping
+# [DEPRECATED] Chemical Reaction Atom Mapping
+
+**UPDATE**: This repository has been moved to the
+[NeoChemSynthWave](https://github.com/neo-chem-synth-wave/crc-atom-to-atom-mapping) organization, and will be removed
+shortly.
+
 The computer-assisted synthesis field grew to become one of the most active fields in chemoinformatics, with new and
 improved approaches centered around chemical reactions being published on a regular basis. To understand the gist of a
 chemical reaction, it is essential to know how the atoms of the participating compounds re-arrange during the chemical
